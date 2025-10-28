@@ -60,7 +60,7 @@ It loads the trained model and predicts total rainfall based on seasonal inputs.
 
 ---
 
-📊 Results & Evaluation
+## 📊 Results & Evaluation
 
 The model achieved reliable accuracy for predicting total rainfall trends.
 
@@ -81,7 +81,7 @@ Deploy as a Streamlit or Flask web application.
 
 ---
 
-🚀 Tools & Technologies
+## 🚀 Tools & Technologies
 
 Languages: Python
 
@@ -95,7 +95,7 @@ Deployment: Flask / Streamlit (optional upgrade)
 
 ---
 
-🏁 Conclusion
+## 🏁 Conclusion
 
 This project demonstrates the end-to-end process of rainfall prediction using machine learning — from data preprocessing and visualization to model training and deployment.
 It provides a foundation for further research in climate forecasting and agricultural data analytics.
